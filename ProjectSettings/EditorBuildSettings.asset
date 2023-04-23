@@ -6,6 +6,15 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/Scenes/Main Menu.unity
+    guid: b8fd9c75344ccc846a32e465ee747613
+  - enabled: 1
+    path: Assets/Scenes/Lv. 1 Spacecraft.unity
+    guid: 9935a8f1fef82d247ab6f8e55773f911
+  - enabled: 1
+    path: Assets/Scenes/Spacecraft.unity
+    guid: 62915100c6287ce4fbbc111755402f80
+  - enabled: 1
+    path: Assets/Scenes/Lv. 3 Spacecraft.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   m_configObjects: {}

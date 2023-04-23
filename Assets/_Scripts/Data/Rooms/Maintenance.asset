@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: adbfdd1b80184964aa0ab337314ae89f, type: 3}
+  m_Name: Maintenance
+  m_EditorClassIdentifier: 
+  DisplayName: Maintenance
+  StartOxygenLevel: 42
+  Area: 96
+  TotalOxygen: 96
+  SetupData: {fileID: 11400000, guid: b171b3941fbdd9944a92a9fc323f4526, type: 2}
